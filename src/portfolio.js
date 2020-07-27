@@ -28,7 +28,7 @@ const socialMediaLinks = {
 // Your Skills Section
 
 const skillsSection = {
-  title: "What i do",
+  title: "What I do",
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji("⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"),
@@ -102,15 +102,15 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design",  //Insert stack or technology you have experience in
+      Stack: "Frontend Development",  //Insert stack or technology you have experience in
       progressPercentage: "80%"  //Insert relative proficiency in percentage
     },
     {
-      Stack: "Backend",
+      Stack: "Backend Development",
       progressPercentage: "60%"
     },
     {
-      Stack: "Problem solving",
+      Stack: "Problem Solving",
       progressPercentage: "65%"
     }
   ]
