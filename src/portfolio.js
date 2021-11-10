@@ -12,7 +12,7 @@ const greeting = {
     "A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries."
   ),
   resumeLink:
-    "https://www.linkedin.com/in/nameerwaqas/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACpQ26IBHkEAaZykvy0IwKqex0FOjg_wO5U,1635463626576)/",
+    "https://drive.google.com/file/d/1Dp3yC__7C-TqrIbT8Dm0bUxKuDYt7qwQ/view?usp=sharing",
 };
 
 // Your Social Media Link
